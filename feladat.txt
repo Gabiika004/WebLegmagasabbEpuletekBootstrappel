@@ -1,0 +1,36 @@
+Készíts weblapot a világ legmagasabb épületeirõl, a csatolt minta alapján. Az oldal elkészítéséhez használd a csatolt forrást és az alábbi feladatleírást:
+
+1) Az oldalon használt színek:
+
+	színátmenetes háttér beállításáról a
+	https://www.w3schools.com/css/css3_gradients.asp oldalon olvashatsz
+
+	például színátmenet fentrol lefelé
+	background-image: linear-gradient(red, yellow);
+
+	az oldal háttérszíne: színátmenet #7db9e8 és #1e5799 színek között
+	a "dobozok" háttérszíne: színátmenet #ff7f50 és #ffdead színek között
+	a címek színe: #2f4f4f
+	h2 címsor, az épületek neveinek háttérszíne: #ff7f50
+
+2) Betûtípus, betûméret: 
+
+	h1 címsor: Georgia, 16pt
+	h2 címsor: Arial, 12pt, pontozott alsó szegély
+	felsorolás: Georgia
+	szöveg: Arial
+
+3) A képek
+
+	szélessége: 160px
+	kerekített sarkokkal rendelkeznek (8px)
+
+	kerekített sarkok beállításáról a
+	https://www.w3schools.com/css/css3_borders.asp oldalon olvashatsz
+
+A szegélyeket, margókat, eltartásokat (border, margin, padding) állítsd be a minta szerint!
+
+	szegélyekrol a https://www.w3schools.com/css/css_border_shorthand.asp oldalon olvashatsz
+
+	5px vastagságú pontozott alsó szegély: border-bottom: 5px dotted red;
+	folytonos szegély mind a 4 oldalon: border: 5px solid red;
